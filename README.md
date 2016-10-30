@@ -3,7 +3,7 @@
 
 ### Final Project
 
-My final project is [Report.pdf](./analysis/Report.pdf)
+My final project is [Report.pdf](./analysis/Report.pdf).
 
 ### Software and Libraries Used
 
